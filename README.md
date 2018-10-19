@@ -1,4 +1,4 @@
-https://travis-ci.org/jeffj6123/writers-block.svg?branch=master
+[![Build Status](https://travis-ci.org/jeffj6123/writers-block.svg?branch=master)](https://travis-ci.org/jeffj6123/writers-block)
 
 ## Prerequisites
 
