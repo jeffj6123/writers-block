@@ -1,6 +1,4 @@
-# Hello World Node App for App Engine
-
-This is a sample "Hello World" application for the "Continuous Deployment for Node Apps on GCP" tutorial that works on App Engine.
+https://travis-ci.org/jeffj6123/writers-block.svg?branch=master
 
 ## Prerequisites
 
